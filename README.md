@@ -9,6 +9,7 @@
 - Fivem 
 - Consideravelmente Otimizado (devido ao seu sistema de facil localização do trabalho) 
 - Estrutura insuficiente para rodar em bases que usam o FrameWork "Creative/Bahamas"
+- Necessario estar usando os artefatos da DLC de Cayo Perico (sv_enforceGameBuild 2189)
 - Com 100% de suporte: Balaka#9918
 - Idealização e Desenvolvimento: Guilherme "Balaka" (Balaka#9918) 
 
@@ -35,6 +36,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 - Fivem
 - Considerably Optimized (due to its easy job location system)
 - Insufficient structure to run on bases that use FrameWork "Creative/Bahamas"
+- You must be using Cayo Perico's DLC artifacts (sv_enforceGameBuild 2189)
 - With 100% support: Balaka#9918
 - Idealization and Development: Guilherme "Balaka" (Balaka#9918)
 
