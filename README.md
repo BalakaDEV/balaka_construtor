@@ -11,6 +11,7 @@
 - Consideravelmente Otimizado (devido ao seu sistema de facil localização do trabalho) 
 - Estrutura insuficiente para rodar em bases que usam o FrameWork "Creative/Bahamas"
 - Necessario estar usando os artefatos da DLC de Cayo Perico (sv_enforceGameBuild 2189)
+- Necessita da criação do item __"ferramenta"__ para que o jogador consiga receber e fazer o serviço
 - Com 100% de suporte: Balaka#9918
 - Idealização e Desenvolvimento: Guilherme "Balaka" (Balaka#9918) 
 
@@ -39,6 +40,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 - Considerably Optimized (due to its easy job location system)
 - Insufficient structure to run on bases that use FrameWork "Creative/Bahamas"
 - You must be using Cayo Perico's DLC artifacts (sv_enforceGameBuild 2189)
+- Needs the creation of the item __"tool"__ so that the player can receive and perform the service
 - With 100% support: Balaka#9918
 - Idealization and Development: Guilherme "Balaka" (Balaka#9918)
 
