@@ -51,6 +51,6 @@ To contribute to the project, follow these steps:
 Alternatively, see the GitHub documentation at [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request ).
 
 
-🔎 [Video de visualização / Preview Video]
+## 🔎 [Video de visualização / Preview Video]
 
 © 2021 Guilherme Balaka All Rights Reserved
