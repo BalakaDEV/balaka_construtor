@@ -7,6 +7,7 @@
 ### 💻 Apresentação e Especificações 
 
 - Fivem 
+- Criação e Desenvolvimento realizado atraves do meu script de trabalho de encanador
 - Consideravelmente Otimizado (devido ao seu sistema de facil localização do trabalho) 
 - Estrutura insuficiente para rodar em bases que usam o FrameWork "Creative/Bahamas"
 - Necessario estar usando os artefatos da DLC de Cayo Perico (sv_enforceGameBuild 2189)
@@ -34,6 +35,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 ### 💻 Presentation and Specifications
 
 - Fivem
+- Creation and Development performed through my plumber work script
 - Considerably Optimized (due to its easy job location system)
 - Insufficient structure to run on bases that use FrameWork "Creative/Bahamas"
 - You must be using Cayo Perico's DLC artifacts (sv_enforceGameBuild 2189)
