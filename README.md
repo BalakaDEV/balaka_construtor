@@ -59,4 +59,7 @@ Alternatively, see the GitHub documentation at [how to create a pull request](ht
 
 ## 🔎 [Video de visualização / Preview Video]
 
+[![Watch the video](https://media.discordapp.net/attachments/799515684278632468/868179005768081478/Thumb.png)](https://www.youtube.com/watch?v=1bfOXyuxMcc)
+
+
 © 2021 Guilherme Balaka All Rights Reserved
