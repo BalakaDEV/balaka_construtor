@@ -1,10 +1,10 @@
 # Balaka Construtor
 
-[PT-BR]
-> Emprego De construtor totalmente configuravel 
+**[PT-BR]**
+> Emprego De construtor totalmente configuravel para Fivem
 
 
-### 💻 Apresentação e Especificações 
+### 📋 Apresentação e Especificações 
 
 - Fivem 
 - Criação e Desenvolvimento realizado atraves do meu script de trabalho de encanador
@@ -14,6 +14,11 @@
 - Necessita da criação do item __"ferramenta"__ para que o jogador consiga receber e fazer o serviço
 - Com 100% de suporte: Balaka#9918
 - Idealização e Desenvolvimento: Guilherme "Balaka" (Balaka#9918) 
+
+## 🔧 Instalação
+1. Arraste o arquivo até a pasta resources do seu servidor mantendo o mesmo nome
+2. Se dirija ao seu *server.cfg* e execute o comando de start: `start balaka_construtor`
+3. Pronto agora é so se dirigir as coordenadas presentes no client.lua do script e começar.
 
 ## 📫 Contribuindo para o script
 
@@ -28,12 +33,12 @@ Para contribuir com o projeto, siga estas etapas:
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
-[EN-US]
+**[EN-US]**
 
-> Fully configurable builder job
+> Fully configurable builder job for Fivem
 
 
-### 💻 Presentation and Specifications
+### 📋 Presentation and Specifications
 
 - Fivem
 - Creation and Development performed through my plumber work script
@@ -43,6 +48,11 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 - Needs the creation of the item __"tool"__ so that the player can receive and perform the service
 - With 100% support: Balaka#9918
 - Idealization and Development: Guilherme "Balaka" (Balaka#9918)
+
+## 🔧 Installation
+1. Drag the file to the resources folder make your server keeping the same name
+2. Go to your * server.cfg * and run the start command: `start balaka_construtor`
+3. Ready now is to address the coordinates present in the script's client.lua and start.
 
 ## 📫 Contributing to the script
 
